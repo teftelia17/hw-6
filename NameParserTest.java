@@ -48,7 +48,7 @@ class NameParserTest {
     public static void main(String[] args) {
         String[] names = {"Ytxizoxi Tymela","Deyf Hogezu","Nupuxyxok Uhezzih","Qecahe Roxy","Nelikyevna Zuditiica"};
 
-        //John, Bill, Nigua
+        //Ytxizoxi, Deyf, Nupuxyxok, Qecahe, Nelikyevna
         System.out.println(new NameParser().parse(names));
     }
 }
